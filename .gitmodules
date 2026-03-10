@@ -1,0 +1,3 @@
+[submodule "submodules/git-notes"]
+	path = submodules/git-notes
+	url = https://github.com/farukonfly/git-notes.git
